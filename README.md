@@ -25,6 +25,7 @@ tive function is considered a black box, and the only information known (or
 tion), / (division), and ˆ (power).
 
  • Unary operators include: cos(x), sin(x).
+ 
  An example of a tree:
     y =2π+((x+3)− 1/sin(x))
 
