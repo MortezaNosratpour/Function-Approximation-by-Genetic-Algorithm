@@ -20,8 +20,10 @@ tive function is considered a black box, and the only information known (or
  algorithm is then followed.
  The operators used in the trees should include at least the following (you can
  also add more items):
+ 
  • Binary operators include: + (addition),- (subtraction), * (multiplica
 tion), / (division), and ˆ (power).
+
  • Unary operators include: cos(x), sin(x).
  An example of a tree:
     y =2π+((x+3)− 1/sin(x))
